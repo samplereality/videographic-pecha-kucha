@@ -1,7 +1,7 @@
 # videographic-pecha-kucha
 Videographic Criticism using Chance Operations
 
-by Mark Sample http://www.samplereality.com
+by Mark Sample http://www.samplereality.com,
 based on an idea by Jason Mittell http://justtv.wordpress.com
 
 Inspired by the Pecha Kucha format, this program assembles
